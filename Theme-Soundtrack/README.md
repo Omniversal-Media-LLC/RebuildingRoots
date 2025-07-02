@@ -19,6 +19,7 @@ It carries complementary themes of nature, memory, wildness, and emotional story
 - [Little-Talks.md](./Little-Talks.md): Lyrics and discussion
 - [Album-Notes.md](./Album-Notes.md): Other tracks and outreach ideas
 - [Playlist-Ideas.md](./Playlist-Ideas.md): Collaborative playlist brainstorms
+- [Yellow-Light-Reflections.md](./Yellow-Light-Reflections.md): Personal reflections on "Yellow Light" and kinship, with references to Nahko
 
 ## Primary Theme Song (Attraction)
 🎵 **Little Talks** by Of Monsters and Men (2011)

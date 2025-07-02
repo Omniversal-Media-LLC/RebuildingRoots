@@ -99,6 +99,7 @@ This is the public-facing call, the song that attracts people to the sanctuary, 
 > "Just follow my yellow light and ignore all those big warning signs."
 
 This is the music playing *inside* the sanctuary walls—an immersive, dreamlike soundscape that invites visitors to let go of fear, follow gentle guidance, and explore transformation in safety.
+- [Yellow-Light-Reflections.md](./Yellow-Light-Reflections.md): Personal reflections on "Yellow Light" and kinship, with references to Nahko
 
 ---
 
