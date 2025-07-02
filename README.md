@@ -63,3 +63,24 @@ This networking web supports the creation of:
 - Omniversal Media's broader mission
 
 **Because healing, dignity, and second chances must be shared, designed, and funded collaboratively.**
+---
+
+## 📸 Assets
+
+This repository includes supporting visuals and documents:
+
+- **Pitch document:**  
+  - [assets/docs/Rebuilding-Roots-Pitch.md](assets/docs/Rebuilding-Roots-Pitch.md)
+
+- **Concept Art Images:**  
+  - [assets/images/RebuildingVision00.png](assets/images/RebuildingVision00.png) – Original art from Renee
+  - [assets/images/RebuildingVision001.png](assets/images/RebuildingVision001.png)
+  - [assets/images/RebuildingVision002.png](assets/images/RebuildingVision002.png)
+  - [assets/images/RebuildingVision003.png](assets/images/RebuildingVision003.png)
+  - [assets/images/RebuildingVision004.png](assets/images/RebuildingVision004.png)
+  - [assets/images/RebuildingVision005.png](assets/images/RebuildingVision005.png)
+---
+
+## ❤️ Note for Renee
+
+This repository is being built out collaboratively with Renee, Sage, and Omniversal Media. It captures, organizes, and expands the vision for the Rebuilding Roots Sanctuary and Hotbox Outreach Model. It is a living planning space designed to invite partners, funders, and allies into co-creating a trauma-informed, regenerative sanctuary project.
