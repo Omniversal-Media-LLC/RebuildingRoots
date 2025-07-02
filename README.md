@@ -84,3 +84,25 @@ This repository includes supporting visuals and documents:
 ## ❤️ Note for Renee
 
 This repository is being built out collaboratively with Renee, Sage, and Omniversal Media. It captures, organizes, and expands the vision for the Rebuilding Roots Sanctuary and Hotbox Outreach Model. It is a living planning space designed to invite partners, funders, and allies into co-creating a trauma-informed, regenerative sanctuary project.
+## Primary Theme Song (Attraction)
+🎵 **Little Talks** by Of Monsters and Men (2011)
+
+> "Though the truth may vary, this ship will carry our bodies safe to shore."
+
+This is the public-facing call, the song that attracts people to the sanctuary, promising safe passage through uncertainty.
+
+---
+
+## Backdrop / Interior Atmosphere
+🎵 **Yellow Light** by Of Monsters and Men (2011)
+
+> "Just follow my yellow light and ignore all those big warning signs."
+
+This is the music playing *inside* the sanctuary walls—an immersive, dreamlike soundscape that invites visitors to let go of fear, follow gentle guidance, and explore transformation in safety.
+
+---
+
+## Album Inspiration
+- *My Head Is an Animal* (2011)
+
+The album as a whole provides a wellspring of imagery, mood, and emotional storytelling for our work.
