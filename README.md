@@ -1,7 +1,6 @@
 # Rebuilding Roots Networking Web
 
-This project maps out key potential partners, allies, and advisors for realizing the vision of Rebuilding Roots, Hotbox, and Omniversal Media sanctuary development.
-
+This project maps out key potential partners, allies, and advisors for realizing the vision of Rebuilding Roots, Hotbox, and Omniversal Media sanctuary development.  
 By organizing this "networking web," we can see who holds parts of the puzzle, what they bring, and how best to approach them.
 
 ---
