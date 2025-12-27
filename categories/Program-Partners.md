@@ -6,4 +6,3 @@ Existing organizations or people with programs that can "plug in" — animal res
 - Survivor support networks
 - Trauma-informed therapists
 - Sustainable agriculture groups
-
