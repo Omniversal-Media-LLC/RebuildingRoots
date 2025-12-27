@@ -63,3 +63,16 @@ This networking web supports the creation of:
 - Omniversal Media's broader mission
 
 **Because healing, dignity, and second chances must be shared, designed, and funded collaboratively.**
+
+---
+
+## 🖼️ New RebuildingVision Concept Art
+
+Visual explorations to support the sanctuary vision:
+
+- ![RebuildingVision000](assets/images/RebuildingVision000.png)
+- ![RebuildingVision001](assets/images/RebuildingVision001.png)
+- ![RebuildingVision002](assets/images/RebuildingVision002.png)
+- ![RebuildingVision003](assets/images/RebuildingVision003.png)
+- ![RebuildingVision004](assets/images/RebuildingVision004.png)
+- ![RebuildingVision005](assets/images/RebuildingVision005.png)
