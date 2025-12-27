@@ -14,4 +14,3 @@
 - Secure seed funding for the pilot site
 - Build ongoing support for outreach programs
 - Maintain a reserve for land acquisition and upkeep
-
