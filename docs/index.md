@@ -1,6 +1,7 @@
 # Rebuilding Roots Networking Web
 
-This project maps out key potential partners, allies, and advisors for realizing the vision of Rebuilding Roots, Hotbox, and Omniversal Media sanctuary development.  
+This project maps out key potential partners, allies, and advisors for realizing the vision of Rebuilding Roots, Hotbox, and Omniversal Media sanctuary development.
+
 By organizing this "networking web," we can see who holds parts of the puzzle, what they bring, and how best to approach them.
 
 ---
@@ -62,12 +63,6 @@ This networking web supports the creation of:
 - Omniversal Media's broader mission
 
 **Because healing, dignity, and second chances must be shared, designed, and funded collaboratively.**
-
-## 🌱 Future Ideas
-
-- Interactive maps of partner locations
-- CRM integration for outreach tracking
-- Shared wiki for resources and notes
 ---
 
 ## 📸 Assets
@@ -78,12 +73,12 @@ This repository includes supporting visuals and documents:
   - [assets/docs/Rebuilding-Roots-Pitch.md](assets/docs/Rebuilding-Roots-Pitch.md)
 
 - **Concept Art Images:**  
-  - [assets/images/RebuildingVision00.png](assets/images/RebuildingVision00.png) – Original art from Renee
-  - [assets/images/RebuildingVision001.png](assets/images/RebuildingVision001.png)
-  - [assets/images/RebuildingVision002.png](assets/images/RebuildingVision002.png)
-  - [assets/images/RebuildingVision003.png](assets/images/RebuildingVision003.png)
-  - [assets/images/RebuildingVision004.png](assets/images/RebuildingVision004.png)
-  - [assets/images/RebuildingVision005.png](assets/images/RebuildingVision005.png)
+  - [../assets/images/RebuildingVision00.png](../assets/images/RebuildingVision00.png) – Original art from Renee
+  - [../assets/images/RebuildingVision001.png](../assets/images/RebuildingVision001.png)
+  - [../assets/images/RebuildingVision002.png](../assets/images/RebuildingVision002.png)
+  - [../assets/images/RebuildingVision003.png](../assets/images/RebuildingVision003.png)
+  - [../assets/images/RebuildingVision004.png](../assets/images/RebuildingVision004.png)
+  - [../assets/images/RebuildingVision005.png](../assets/images/RebuildingVision005.png)
 ---
 
 ## ❤️ Note for Renee
@@ -104,7 +99,7 @@ This is the public-facing call, the song that attracts people to the sanctuary, 
 > "Just follow my yellow light and ignore all those big warning signs."
 
 This is the music playing *inside* the sanctuary walls—an immersive, dreamlike soundscape that invites visitors to let go of fear, follow gentle guidance, and explore transformation in safety.
-- [Yellow-Light-Reflections.md](./Yellow-Light-Reflections.md): Personal reflections on "Yellow Light" and kinship, with references to Nahko
+- [Yellow-Light-Reflections.md](Theme-Soundtrack/Yellow-Light-Reflections.md): Personal reflections on "Yellow Light" and kinship, with references to Nahko
 
 ---
 
