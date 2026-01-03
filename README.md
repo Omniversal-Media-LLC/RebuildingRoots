@@ -65,6 +65,20 @@ This networking web supports the creation of:
 
 ---
 
+## ❤️ Note for Renee
+
+This project is being built out collaboratively with Renee, Sage, and Omniversal Media. The goal is to capture, organize, and expand on the vision for the Rebuilding Roots Sanctuary and Hotbox Outreach Model.
+
+It includes:
+
+- A networking map of aligned partners and contacts
+- Strategy and outreach planning docs
+- Early concept art visualizations
+- The original pitch PDF from Renee
+
+We will continue to refine this space as an evolving plan and proposal to share with funders, landholders, builders, and trauma-informed program partners.
+
+Together we are laying the foundation for a sustainable, compassionate, second-chance sanctuary.
 ## \ud83d\udcf8 Assets
 
 This repository also includes supporting visual and written materials to help communicate the vision of the Rebuilding Roots and Hotbox models:
