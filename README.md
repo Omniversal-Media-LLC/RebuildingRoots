@@ -62,6 +62,12 @@ This networking web supports the creation of:
 - Omniversal Media's broader mission
 
 **Because healing, dignity, and second chances must be shared, designed, and funded collaboratively.**
+
+## 🌱 Future Ideas
+
+- Interactive maps of partner locations
+- CRM integration for outreach tracking
+- Shared wiki for resources and notes
 ---
 
 ## 📸 Assets
