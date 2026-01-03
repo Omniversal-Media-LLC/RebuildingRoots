@@ -65,6 +65,16 @@ This networking web supports the creation of:
 
 ---
 
+## 🖼️ New RebuildingVision Concept Art
+
+Visual explorations to support the sanctuary vision:
+
+- ![RebuildingVision000](assets/images/RebuildingVision000.png)
+- ![RebuildingVision001](assets/images/RebuildingVision001.png)
+- ![RebuildingVision002](assets/images/RebuildingVision002.png)
+- ![RebuildingVision003](assets/images/RebuildingVision003.png)
+- ![RebuildingVision004](assets/images/RebuildingVision004.png)
+- ![RebuildingVision005](assets/images/RebuildingVision005.png)
 ## ❤️ Note for Renee
 
 This project is being built out collaboratively with Renee, Sage, and Omniversal Media. The goal is to capture, organize, and expand on the vision for the Rebuilding Roots Sanctuary and Hotbox Outreach Model.
