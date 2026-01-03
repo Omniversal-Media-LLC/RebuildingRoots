@@ -63,52 +63,20 @@ This networking web supports the creation of:
 
 **Because healing, dignity, and second chances must be shared, designed, and funded collaboratively.**
 
-## 🌱 Future Ideas
-
-- Interactive maps of partner locations
-- CRM integration for outreach tracking
-- Shared wiki for resources and notes
 ---
 
-## 📸 Assets
+## \ud83d\udcf8 Assets
 
-This repository includes supporting visuals and documents:
+This repository also includes supporting visual and written materials to help communicate the vision of the Rebuilding Roots and Hotbox models:
 
-- **Pitch document:**  
-  - [assets/docs/Rebuilding-Roots-Pitch.md](assets/docs/Rebuilding-Roots-Pitch.md)
+- \ud83d\udcc4 **Pitch PDF:**  
+  - `assets/docs/Rebuilding-Roots-Pitch.pdf` – Early-stage project summary, vision, mission, program details, and funding goals.
 
-- **Concept Art Images:**  
-  - [assets/images/RebuildingVision00.png](assets/images/RebuildingVision00.png) – Original art from Renee
-  - [assets/images/RebuildingVision001.png](assets/images/RebuildingVision001.png)
-  - [assets/images/RebuildingVision002.png](assets/images/RebuildingVision002.png)
-  - [assets/images/RebuildingVision003.png](assets/images/RebuildingVision003.png)
-  - [assets/images/RebuildingVision004.png](assets/images/RebuildingVision004.png)
-  - [assets/images/RebuildingVision005.png](assets/images/RebuildingVision005.png)
----
+- \ud83d\uddbc\ufe0f **Concept Art Images:**  
+  - `assets/images/forest-sanctuary.png` – Mountain forest sanctuary vision
+  - `assets/images/desert-oasis.png` – Desert oasis cooperative variant
+  - `assets/images/eco-village.png` – Modern eco-village with domes and greenhouses
+  - `assets/images/wetland-settlement.png` – Wetland river settlement
+  - `assets/images/prairie-homestead.png` – Prairie homestead village
 
-## ❤️ Note for Renee
-
-This repository is being built out collaboratively with Renee, Sage, and Omniversal Media. It captures, organizes, and expands the vision for the Rebuilding Roots Sanctuary and Hotbox Outreach Model. It is a living planning space designed to invite partners, funders, and allies into co-creating a trauma-informed, regenerative sanctuary project.
-## Primary Theme Song (Attraction)
-🎵 **Little Talks** by Of Monsters and Men (2011)
-
-> "Though the truth may vary, this ship will carry our bodies safe to shore."
-
-This is the public-facing call, the song that attracts people to the sanctuary, promising safe passage through uncertainty.
-
----
-
-## Backdrop / Interior Atmosphere
-🎵 **Yellow Light** by Of Monsters and Men (2011)
-
-> "Just follow my yellow light and ignore all those big warning signs."
-
-This is the music playing *inside* the sanctuary walls—an immersive, dreamlike soundscape that invites visitors to let go of fear, follow gentle guidance, and explore transformation in safety.
-- [Yellow-Light-Reflections.md](./Yellow-Light-Reflections.md): Personal reflections on "Yellow Light" and kinship, with references to Nahko
-
----
-
-## Album Inspiration
-- *My Head Is an Animal* (2011)
-
-The album as a whole provides a wellspring of imagery, mood, and emotional storytelling for our work.
+These materials help convey the regenerative, trauma-informed design goals and inspire potential partners and donors.
