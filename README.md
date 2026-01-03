@@ -1,7 +1,6 @@
 # Rebuilding Roots Networking Web
 
-This project maps out key potential partners, allies, and advisors for realizing the vision of Rebuilding Roots, Hotbox, and Omniversal Media sanctuary development.
-
+This project maps out key potential partners, allies, and advisors for realizing the vision of Rebuilding Roots, Hotbox, and Omniversal Media sanctuary development.  
 By organizing this "networking web," we can see who holds parts of the puzzle, what they bring, and how best to approach them.
 
 ---
@@ -80,3 +79,18 @@ It includes:
 We will continue to refine this space as an evolving plan and proposal to share with funders, landholders, builders, and trauma-informed program partners.
 
 Together we are laying the foundation for a sustainable, compassionate, second-chance sanctuary.
+## \ud83d\udcf8 Assets
+
+This repository also includes supporting visual and written materials to help communicate the vision of the Rebuilding Roots and Hotbox models:
+
+- \ud83d\udcc4 **Pitch PDF:**  
+  - `assets/docs/Rebuilding-Roots-Pitch.pdf` – Early-stage project summary, vision, mission, program details, and funding goals.
+
+- \ud83d\uddbc\ufe0f **Concept Art Images:**  
+  - `assets/images/forest-sanctuary.png` – Mountain forest sanctuary vision
+  - `assets/images/desert-oasis.png` – Desert oasis cooperative variant
+  - `assets/images/eco-village.png` – Modern eco-village with domes and greenhouses
+  - `assets/images/wetland-settlement.png` – Wetland river settlement
+  - `assets/images/prairie-homestead.png` – Prairie homestead village
+
+These materials help convey the regenerative, trauma-informed design goals and inspire potential partners and donors.
